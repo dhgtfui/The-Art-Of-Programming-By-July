@@ -18,7 +18,7 @@ function leftShift1(s, m) {
 
     while (m--) {
         shiftHeadToEnd(arr, length);
-    }
+    }khkhkhkhk
 
     return arr.join('');
 }
